@@ -13,6 +13,9 @@ public class NilaiAkhir {
         System.out.print("Nilai Praktikum : ");
         double praktikum = input.nextDouble();
 
+        System.out.print("Nilai Tugas : ");
+        double tugas = input.nextDouble();
+
 
 
 

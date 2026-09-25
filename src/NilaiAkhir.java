@@ -28,6 +28,8 @@ public class NilaiAkhir {
             + tugas * BOBOT_TUGAS
             + mid * BOBOT_MID;
 
+    //int akhir = nilaiPraktikum * 30/100 + nilaiTugas * 20/100 + nilaiMID * 20/100 + nilaiFinal * 30/100;
+
     akhir += finalNilai * BOBOT_FINAL;
 
         int dipotong = (int) akhir;
